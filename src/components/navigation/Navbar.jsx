@@ -1,7 +1,8 @@
+/* eslint-disable react/prop-types */
 import logo from "../../assets/assdi-logo.png";
 import search from "../../assets/search.svg";
 
-const Navbar = () => {
+const Navbar = ({ searchText, onSearchAddText }) => {
   return (
     <nav className="bg-slate-100 shadow-md">
       <div className="max-w-7xl mx-auto px-5 lg:px-0 flex justify-between py-3">
@@ -19,6 +20,8 @@ const Navbar = () => {
               type="search"
               name="search"
               placeholder="Search"
+              value={searchText}
+              onChange={(event) => onSearchAddText(event.target.value)}
             />
           </form>
           <img
