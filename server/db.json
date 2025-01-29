@@ -1,0 +1,88 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "“বহুত্ববাদে” বিভ্রান্তি, সংবিধান সংস্কারে সুস্পষ্ট ব্যাখ্যার প্রয়োজন",
+      "duration": "0:30:00",
+      "views": 1000,
+      "likes": 500,
+      "dislikes": 200,
+      "author": "As Sunnah Skill Development",
+      "description": "“বহুত্ববাদে” বিভ্রান্তি, সংবিধান সংস্কারে সুস্পষ্ট ব্যাখ্যার রয়োজন।",
+      "date": "Jan 18, 2022",
+      "thumbnail": "https://img.youtube.com/vi/k9Eg8obS36I/0.jpg",
+      "tags": ["বহুত্ববাদে", "Ahmadulla", "সংবিধান"],
+      "link": "https://youtu.be/k9Eg8obS36I"
+    },
+    {
+      "id": 2,
+      "title": "গাজায় যুদ্ধবিরতি শান্তির বার্তা নাকি কৌশলী ফাঁদ | Sheikh Ahmadullah",
+      "duration": "0:30:00",
+      "views": 1000,
+      "likes": 500,
+      "dislikes": 200,
+      "author": "As Sunnah Skill Development",
+      "description": "গাজায় যুদ্ধবিরতি শান্তির বার্তা নাকি কৌশলী ফাঁদ|",
+      "date": "Jan 18, 2022",
+      "thumbnail": "https://img.youtube.com/vi/WRKaoChfvSk/0.jpg",
+      "tags": ["ইসলামিক ভিডিও", "Ahmadulla", "ইসলামী প্রশ্নোত্তর"],
+      "link": "https://youtu.be/WRKaoChfvSk"
+    },
+    {
+      "id": 3,
+      "title": "ডুয়েটে সীরাত আলোচনা শুনে সিক্ত হলেন ভিসি, ডা. নাবিল এমনকি হিন্দু শিক্ষার্থীরা",
+      "duration": "0:30:00",
+      "views": 1000,
+      "likes": 500,
+      "dislikes": 200,
+      "author": "As Sunnah Skill Development",
+      "description": "ডুয়েটে সীরাত আলোচনা শুনে সিক্ত হলেন ভিসি, ডা. নাবিল এমনকি হিন্দু শিক্ষার্থীরা",
+      "date": "Jan 18, 2022",
+      "thumbnail": "https://img.youtube.com/vi/UBiUoEaivAA/0.jpg",
+      "tags": ["বাংলা ওয়াজ", "Ahmadulla", "নতুন ওয়াজ"],
+      "link": "https://youtu.be/UBiUoEaivAA"
+    },
+    {
+      "id": 4,
+      "title": "একটি চক্র মাহফিলকে ধ্বংস করার পায়তারা করছে",
+      "duration": "0:30:00",
+      "views": 1000,
+      "likes": 500,
+      "dislikes": 200,
+      "author": "As Sunnah Skill Development",
+      "description": "একটি চক্র মাহফিলকে ধ্বংস করার পায়তারা করছে",
+      "date": "Jan 18, 2022",
+      "thumbnail": "https://img.youtube.com/vi/VaxmfFNZCyg/0.jpg",
+      "tags": [
+        "ইসলামিক ভিডিও",
+        "Ahmadulla",
+        "ইসলামী প্রশ্নোত্তর",
+        "বাংলা ওয়াজ",
+        "Ahmadulla",
+        "নতুন ওয়াজ"
+      ],
+      "link": "https://youtu.be/VaxmfFNZCyg"
+    },
+    {
+      "id": 5,
+      "title": "শুরু হয়েছে রমজানের আগমনী মাস রজব, আমাদের করণীয়",
+      "duration": "0:30:00",
+      "views": 1000,
+      "likes": 500,
+      "dislikes": 200,
+      "author": "As Sunnah Skill Development",
+      "description": "শুরু হয়েছে রমজানের আগমনী মাস রজব, আমাদের করণীয়",
+      "date": "Jan 18, 2022",
+      "thumbnail": "https://img.youtube.com/vi/-2ms47xH2Ng/0.jpg",
+      "tags": [
+        "ইসলামিক ভিডিও",
+        "Ahmadulla",
+        "ইসলামী প্রশ্নোত্তর",
+        "বাংলা ওয়াজ",
+        "Ahmadulla",
+        "নতুন ওয়াজ"
+      ],
+      "link": "https://youtu.be/-2ms47xH2Ng"
+    }
+  ]
+}
